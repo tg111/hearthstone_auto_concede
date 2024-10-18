@@ -18,7 +18,7 @@
 ### 安装步骤
 使用以下命令安装所需库：
 ```bash
-pip install pyautogui opencv-python pillow numpy
+pip install pyautogui opencv-python pillow numpy psutil
 ```
 ### 免责声明
 
@@ -36,6 +36,6 @@ pip install pyautogui opencv-python pillow numpy
 ### 待办事项
 
 - [ ] 集成OCR文字识别功能，用于识别“失败”字样，进一步提升流程速度
-- [ ] 优化进入游戏后快速投降的逻辑，缩短响应时间
+- [x] 优化进入游戏后快速投降的逻辑，缩短响应时间
 - [ ] 增加点击位置的随机偏移值，避免每次点击同一位置被检测到，提升安全性
-- [ ] 游戏崩溃、无响应后重启游戏
+- [x] 游戏崩溃、无响应后重启游戏
