@@ -15,6 +15,10 @@
 - `pillow`: 用于截图
 - `numpy`: 用于处理图像数据
 
+### 编译exe文件下载
+
+[点击跳转百度云下载](https://pan.baidu.com/s/11FjrXz8NLUDGhD6sXe4BWQ?pwd=rqx4)
+
 ### 安装步骤
 使用以下命令安装所需库：
 ```bash
