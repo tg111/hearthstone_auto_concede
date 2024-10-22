@@ -1,4 +1,3 @@
-import pyautogui
 import time
 import tools
 import restart_hs

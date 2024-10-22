@@ -21,10 +21,14 @@ def kill_process_by_name(process_name):
 
 
 def activate_window(windowTitle):
+    print('激活战网窗口')
     windows = gw.getWindowsWithTitle(windowTitle)
     if windows:
         window = windows[0]
-        window.restore()
+        if window.isMinimized:
+            window.restore()
+        elif not window.isActive:
+            window.activate()
         time.sleep(2)
 
 

@@ -17,10 +17,10 @@
 - `opencv-python`: 用于图像识别
 - `pillow`: 用于截图
 - `numpy`: 用于处理图像数据
-
+- `psutil` ： 用于检测游戏进程
 ### 编译exe文件下载
 
-[点击跳转百度云下载](https://pan.baidu.com/s/11FjrXz8NLUDGhD6sXe4BWQ?pwd=rqx4)
+[点击跳转百度网盘下载](https://pan.baidu.com/s/1SNLas159_l7JqjBWty-Vlg?pwd=vrpi)
 
 ### 安装步骤
 使用以下命令安装所需库：
