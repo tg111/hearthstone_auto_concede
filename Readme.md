@@ -20,7 +20,7 @@
 - `psutil` ： 用于检测游戏进程
 ### 编译exe文件下载
 
-[点击跳转百度网盘下载](https://pan.baidu.com/s/1SNLas159_l7JqjBWty-Vlg?pwd=vrpi)
+[点击跳转百度网盘下载](https://pan.baidu.com/s/1DHMqIFpUhRC0oZHAK_s1vA?pwd=qwf8)
 
 ### 安装步骤
 使用以下命令安装所需库：
